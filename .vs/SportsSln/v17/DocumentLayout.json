@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35FDF2BD-EAED-41D3-9131-67D74753267F}|SportsStore.Tests\\SportsStore.Tests.csproj|c:\\users\\ll\\onedrive\\documents\\visual studio 2022\\sportsstore niones\\sportssln\\sportsstore.tests\\sportsstore.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{35FDF2BD-EAED-41D3-9131-67D74753267F}|SportsStore.Tests\\SportsStore.Tests.csproj|solutionrelative:sportsstore.tests\\sportsstore.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8497474D-6361-4721-8E31-D5EA74DA675D}|SportsStore\\SportsStore.csproj|c:\\users\\ll\\onedrive\\documents\\visual studio 2022\\sportsstore niones\\sportssln\\sportsstore\\migrations\\20240216104940_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8497474D-6361-4721-8E31-D5EA74DA675D}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\migrations\\20240216104940_initial.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8497474D-6361-4721-8E31-D5EA74DA675D}|SportsStore\\SportsStore.csproj|c:\\users\\ll\\onedrive\\documents\\visual studio 2022\\sportsstore niones\\sportssln\\sportsstore\\migrations\\20240216104940_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8497474D-6361-4721-8E31-D5EA74DA675D}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\migrations\\20240216104940_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8497474D-6361-4721-8E31-D5EA74DA675D}|SportsStore\\SportsStore.csproj|c:\\users\\ll\\onedrive\\documents\\visual studio 2022\\sportsstore niones\\sportssln\\sportsstore\\migrations\\20240216104940_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8497474D-6361-4721-8E31-D5EA74DA675D}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\migrations\\20240216104940_orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8497474D-6361-4721-8E31-D5EA74DA675D}|SportsStore\\SportsStore.csproj|c:\\users\\ll\\onedrive\\documents\\visual studio 2022\\sportsstore niones\\sportssln\\sportsstore\\migrations\\20240216104940_orders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8497474D-6361-4721-8E31-D5EA74DA675D}|SportsStore\\SportsStore.csproj|solutionrelative:sportsstore\\migrations\\20240216104940_orders.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SportsStore.Tests.csproj",
+              "DocumentMoniker": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+              "RelativeDocumentMoniker": "SportsStore.Tests\\SportsStore.Tests.csproj",
+              "ToolTip": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore.Tests\\SportsStore.Tests.csproj",
+              "RelativeToolTip": "SportsStore.Tests\\SportsStore.Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-19T14:21:48.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20240216104940_Orders.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore\\Migrations\\20240216104940_Orders.Designer.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Migrations\\20240216104940_Orders.Designer.cs",
+              "ToolTip": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore\\Migrations\\20240216104940_Orders.Designer.cs",
+              "RelativeToolTip": "SportsStore\\Migrations\\20240216104940_Orders.Designer.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T11:24:17.138Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20240216104940_Initial.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore\\Migrations\\20240216104940_Initial.Designer.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Migrations\\20240216104940_Initial.Designer.cs",
+              "ToolTip": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore\\Migrations\\20240216104940_Initial.Designer.cs",
+              "RelativeToolTip": "SportsStore\\Migrations\\20240216104940_Initial.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:34:35.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20240216104940_Initial.cs",
+              "DocumentMoniker": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore\\Migrations\\20240216104940_Initial.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Migrations\\20240216104940_Initial.cs",
+              "ToolTip": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore\\Migrations\\20240216104940_Initial.cs",
+              "RelativeToolTip": "SportsStore\\Migrations\\20240216104940_Initial.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:33:29.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20240216104940_Orders.cs",
+              "DocumentMoniker": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore\\Migrations\\20240216104940_Orders.cs",
+              "RelativeDocumentMoniker": "SportsStore\\Migrations\\20240216104940_Orders.cs",
+              "ToolTip": "C:\\Users\\ll\\OneDrive\\Documents\\Visual Studio 2022\\SportsStore Niones\\SportsSln\\SportsStore\\Migrations\\20240216104940_Orders.cs",
+              "RelativeToolTip": "SportsStore\\Migrations\\20240216104940_Orders.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-19T10:33:14.069Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

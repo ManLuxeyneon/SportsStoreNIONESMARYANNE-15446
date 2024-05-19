@@ -12,7 +12,7 @@ using SportsStore.Models;
 namespace SportsStore.Migrations
 {
     [DbContext(typeof(StoreDbContext))]
-    [Migration("202211301240_Orders")]
+    [Migration("20240216104940_Orders")]
     partial class Orders
     {
         /// <inheritdoc />
